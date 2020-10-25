@@ -1,4 +1,4 @@
-![Forbidden Sheets](https://raw.githubusercontent.com/lasseborly/forbidden-sheets/master/forbidden_sheets.png)
+![Forbidden Sheets](https://raw.githubusercontent.com/lasseborly/forbidden-sheets/main/forbidden_sheets.png)
 
 **Online, unopinionated character sheet for Forbidden Lands.**
 
