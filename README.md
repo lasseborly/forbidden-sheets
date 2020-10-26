@@ -33,9 +33,9 @@ ones attached exists, please make me aware.
 
 ### Translations
 
-**Czech:** skaven#7544
-**Norwegian Bokmål:** [comradekingu](https://github.com/comradekingu)
-**French:** [Edanas](https://hosted.weblate.org/user/Edanas/)
+- **Czech:** skaven#7544
+- **Norwegian Bokmål:** [comradekingu](https://github.com/comradekingu)
+- **French:** [Edanas](https://hosted.weblate.org/user/Edanas/)
 
 ## License
 
