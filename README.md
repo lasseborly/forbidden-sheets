@@ -13,6 +13,10 @@ issues in this repository.
 
 ## Translations
 
+<a href="https://hosted.weblate.org/engage/forbidden-sheets/">
+    <img src="https://hosted.weblate.org/widgets/forbidden-sheets/-/interface/multi-auto.svg" alt="Translation status" />
+</a>
+
 We make use of Weblate to manage the translations and you are very velcome to
 help in the translation efforts. It is desireable if an official first or third
 party translation of the rules exists that the translation here corresponds to
@@ -24,6 +28,14 @@ said official translation.
 
 The repository have the official character sheets attached. If any besides the
 ones attached exists, please make me aware.
+
+## Contributors
+
+### Translations
+
+**Czech:** skaven#7544
+**Norwegian Bokmål:** [comradekingu](https://github.com/comradekingu)
+**French:** [Edanas](https://hosted.weblate.org/user/Edanas/)
 
 ## License
 
