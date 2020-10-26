@@ -2,7 +2,7 @@
 
 **Online, unopinionated character sheet for Forbidden Lands.**
 
-[https://www.forbidden-sheets.com/](https://www.forbidden-sheets.com/)
+[https://www.forbidden-sheets.com](https://www.forbidden-sheets.com/)
 
 Until the actual project is at a point where I feel comfortable releasing the
 source this repository is mainly going to contain translations and other
@@ -18,7 +18,7 @@ help in the translation efforts. It is desireable if an official first or third
 party translation of the rules exists that the translation here corresponds to
 said official translation.
 
-[https://hosted.weblate.org/projects/forbidden-sheets/](https://hosted.weblate.org/projects/forbidden-sheets/)
+[https://hosted.weblate.org/projects/forbidden-sheets](https://hosted.weblate.org/projects/forbidden-sheets/)
 
 ## Charater sheets
 
