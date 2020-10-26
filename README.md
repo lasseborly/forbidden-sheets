@@ -24,3 +24,8 @@ said official translation.
 
 The repository have the official character sheets attached. If any besides the
 ones attached exists, please make me aware.
+
+## License
+
+The user submitted translations that aren't derived from any official Free
+League content are submitted with the attached MIT license.
