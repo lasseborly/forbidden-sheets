@@ -17,7 +17,7 @@
     "consumablesText": "spotřební předměty",
     "copperText": "měď",
     "craftingStrengthText": "síla",
-    "craftingText": "svaly",
+    "craftingText": "řemesla",
     "criticalInjuriesText": "kritická zranění",
     "darkSecretText": "temné tajemství",
     "empathyText": "osobnost",
@@ -93,4 +93,4 @@
     "willpowerText": "vůle",
     "witsText": "bystrost",
     "notesText": "poznámky"
-  }
+}
