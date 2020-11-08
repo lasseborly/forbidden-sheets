@@ -34,7 +34,7 @@ ones attached exists, please make me aware.
 ### Translations
 
 - **Czech:** skaven#7544
-- **Norwegian Bokmål:** [comradekingu](https://github.com/comradekingu)\
+- **Norwegian Bokmål:** [comradekingu](https://github.com/comradekingu)
 - **Norwegian Nynorsk:** [Wim Hoek](https://hosted.weblate.org/user/whoek92/)
 - **French:** [Edanas](https://hosted.weblate.org/user/Edanas/)
 - **German:** [Edanas](https://hosted.weblate.org/user/Edanas/)
