@@ -35,13 +35,13 @@ ones attached exists, please make me aware.
 
 - **Czech:** skaven#7544
 - **Norwegian Bokmål:** [comradekingu](https://github.com/comradekingu)
-- **Norwegian Nynorsk:** [Wim Hoek](https://hosted.weblate.org/user/whoek92/)
+- **Norwegian Nynorsk:** [Ådne Dyrnesli](https://hosted.weblate.org/user/adne.dyrnesli/)
 - **French:** [Edanas](https://hosted.weblate.org/user/Edanas/)
 - **German:** [Edanas](https://hosted.weblate.org/user/Edanas/)
 - **Danish:** [Morten Greis Petersen](https://rollespil.blog/about/)
 - **Italian:** [Leonardo Paradisi](https://twitter.com/SolarisSsb)
 - **Swedish:** [Andreas Larsson](https://hosted.weblate.org/user/andreas.seeby/)
-- **Dutch:** [Ådne Dyrnesli](https://hosted.weblate.org/user/adne.dyrnesli/)
+- **Dutch:** [Wim Hoek](https://hosted.weblate.org/user/whoek92/)
 ## License
 
 The user submitted translations that aren't derived from any official Free
