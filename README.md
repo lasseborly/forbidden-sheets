@@ -42,6 +42,8 @@ ones attached exists, please make me aware.
 - **Italian:** [Leonardo Paradisi](https://twitter.com/SolarisSsb)
 - **Swedish:** [Andreas Larsson](https://hosted.weblate.org/user/andreas.seeby/)
 - **Dutch:** [Wim Hoek](https://hosted.weblate.org/user/whoek92/)
+- **Portuguese (Brazil):** Galdaran#4059
+
 ## License
 
 The user submitted translations that aren't derived from any official Free
