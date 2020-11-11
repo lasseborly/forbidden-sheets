@@ -37,7 +37,7 @@ ones attached exists, please make me aware.
 - **Norwegian Bokmål:** [comradekingu](https://github.com/comradekingu)
 - **Norwegian Nynorsk:** [Ådne Dyrnesli](https://hosted.weblate.org/user/adne.dyrnesli/)
 - **French:** [Edanas](https://hosted.weblate.org/user/Edanas/)
-- **German:** [Edanas](https://hosted.weblate.org/user/Edanas/)
+- **German:** [Edanas](https://hosted.weblate.org/user/Edanas/) and Scorp#1358
 - **Danish:** [Morten Greis Petersen](https://rollespil.blog/about/)
 - **Italian:** [Leonardo Paradisi](https://twitter.com/SolarisSsb)
 - **Swedish:** [Andreas Larsson](https://hosted.weblate.org/user/andreas.seeby/)
