@@ -35,3 +35,6 @@ ones attached exists, please make me aware.
 
 The user submitted translations that aren't derived from any official Free
 League content are submitted with the attached MIT license.
+All art assets are being used WITHOUT explicit permission but I claim no
+ownership of anything and Free League is only a single issue/email away from me removing all
+of it from there and taking the app down if they so desire. lasse@trylleskov.email
