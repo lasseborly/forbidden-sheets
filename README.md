@@ -30,6 +30,7 @@ ones attached exists, please make me aware.
 - **Swedish:** [Andreas Larsson](https://hosted.weblate.org/user/andreas.seeby/)
 - **Dutch:** [Wim Hoek](https://hosted.weblate.org/user/whoek92/)
 - **Portuguese (Brazil):** Galdaran#4059
+- **Finnish:** [Kimi Kyllönen](https://github.com/kyllonki)
 
 ## License
 
