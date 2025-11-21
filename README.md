@@ -11,7 +11,7 @@ supportive assets.
 Any feature requests or actual issues is more than welcome to be submitted as
 issues in this repository.
 
-## Charater sheets
+## Character sheets
 
 The repository have the official character sheets attached. If any besides the
 ones attached exists, please make me aware.
@@ -31,6 +31,7 @@ ones attached exists, please make me aware.
 - **Dutch:** [Wim Hoek](https://hosted.weblate.org/user/whoek92/)
 - **Portuguese (Brazil):** Galdaran#4059
 - **Finnish:** [Kimi Kyllönen](https://github.com/kyllonki)
+- **Spanish:** [Antonio Vásquez](#)
 
 ## License
 
